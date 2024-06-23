@@ -21,7 +21,7 @@ namespace Contact_Manager
 
             }
 
-
+             
         }
 
         public static List<string> ContactsManager(List<string> contact, string action, string name = "")
